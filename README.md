@@ -6,13 +6,17 @@ Recreating the bokeh particle effect style from this tweet:
 
 https://twitter.com/philipcdavis/status/1509908909263241221
 
-### Output 
+### Output
 
-![](images/output.mp4)
+![](images/output.png)
 
-### Reference video
+Video: https://github.com/atrinh0/bokeh/blob/main/images/output.mp4
 
-![](images/reference.mp4)
+### Reference 
+
+![](images/reference.png)
+
+Video: https://github.com/atrinh0/bokeh/blob/main/images/reference.mp4
 
 Source: https://twitter.com/philipcdavis/status/1509908909263241221
 
